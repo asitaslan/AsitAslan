@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aşıt</h1>
 <h3 align="center">Back-end and iOS Developer</h3>
 
-- 🔭 I’m currently working on **Mobile project which I took as a freelance I**
+- 🔭 I’m currently working on **Mobile project which I took as a freelance **
 
 - 🌱 I’m currently learning and working on **Patika.Dev front-end patika like react**
 
