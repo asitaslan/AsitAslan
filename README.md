@@ -1,13 +1,14 @@
-<h3 align="center">Hi 👋, I'm Aşıt. I was born in Ağrı. I grown up at that city untill 18 age. Then I lived in İzmir and work there as a cook almost two years. After that I decided go university and I started at Karabuk University department of Computer engineering. I graduated in June 2021. After my graduated I began work as a freelancer with Django. I am developing back-end with Python Django framework. I have already finished a big project with django and deploy back-end with ngnx,gunicorn and docker on DigitalOcean. I am using PostreSql for database and using Git on Ubuntu. Now I am trying improve my front-end skill and iOS skill. I've got a techcareer iOS bootcamp certificate. For more information you are curious about me, you can contact me at the contact information below.</h3>
-<h3 align="center">Back-end and iOS Developer</h3>
+<h3 align="center">Hi 👋 all, I'm Aşıt.</h3>
+<h6> I was born in Ağrı. I grown up at that city untill 18 age. Then I lived in İzmir and work there as a cook almost two years. After that I decided go university and I started at Karabuk University department of Computer engineering. I graduated in June 2021. After my graduated I began work as a freelancer with Django. I am developing back-end with Python Django framework. I have already finished a big project with django and deploy back-end with ngnx,gunicorn and docker on DigitalOcean. I am using PostreSql for database and using Git on Ubuntu. Now I am trying improve my front-end skill and iOS skill. I've got a techcareer iOS bootcamp certificate. For more information you are curious about me, you can contact me at the contact information below.</h6>
+
 
 - 🔭 I’m currently working on **Mobile project which I took as a freelance**
 
-- 🌱 I’m currently learning and working on **Patika.Dev front-end patika like react**
+- 🌱 I’m currently learning and working on **Data science with Python numpy and pandas libraries**
 
 - 📝 I regularly write articles on [https://medium.com/@asitaslan95](https://medium.com/@asitaslan95)
 
-- 💬 Ask me about **Django and iOS Swift**
+- 💬 Ask me about **Django and iOS**
 
 - 📫 How to reach me **asitaslan95@gmail.com**
 
