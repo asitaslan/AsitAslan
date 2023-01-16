@@ -2,7 +2,7 @@
 <h6> For more information you are curious about me, you can contact me at the contact information below.</h6>
 
 
-- 🔭 I’m currently working on **My own mobile**
+- 🔭 I’m currently working on **My own mobile application **
 
 - 🌱 I’m currently learning and working on **Machine Learning **
 
