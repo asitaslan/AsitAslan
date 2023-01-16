@@ -1,10 +1,10 @@
 <h3 align="center">Hi 👋 all, I'm Aşıt.</h3>
-<h6> I was born in Ağrı. I grown up at that city untill 18 age. Then I lived in İzmir and work there as a cook almost two years. After that I decided go university and I started at Karabuk University department of Computer engineering. I graduated in June 2021. For more information you are curious about me, you can contact me at the contact information below.</h6>
+<h6> For more information you are curious about me, you can contact me at the contact information below.</h6>
 
 
-- 🔭 I’m currently working on **Mobile project which I took as a freelance**
+- 🔭 I’m currently working on **My own mobile**
 
-- 🌱 I’m currently learning and working on **Data science Projects**
+- 🌱 I’m currently learning and working on **Machine Learning **
 
 - 📝 I regularly write articles on [https://medium.com/@asitaslan95](https://medium.com/@asitaslan95)
 
